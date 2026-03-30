@@ -229,7 +229,7 @@ AI enables the development of sustainable urban environments through algorithmic
 
 A semantic network shows how climate concepts are connected:
 
-![Semantic Network](images/semantic_network.png)
+![Semantic Network](images/semantic_network.jpg)
 
 **Key Relationships:**
 - CO2 Emissions → Temperature Rise → Sea Level Rise
